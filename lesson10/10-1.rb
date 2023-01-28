@@ -1,4 +1,4 @@
-arr = ["walf", "hank", "jr", "jessie", "lidia"]
+arr = ["walf", "hank", "jr", "jessie", "lidia"] #Масив
 
 loop do
 
